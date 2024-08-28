@@ -50,5 +50,5 @@ This project builds upon the excellent work from the following repositories:
 ## Author
 Project developed by **Gaurav Bharatavalli Rangaswamy**
 
-GitHub: [github.com/your-profile](https://github.com/Gaurav-B-R)
+GitHub: [github.com/Gaurav-B-R](https://github.com/Gaurav-B-R)
 
