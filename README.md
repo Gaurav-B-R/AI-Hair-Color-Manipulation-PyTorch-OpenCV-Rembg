@@ -1,4 +1,4 @@
-# Hair Color Changing AI Project
+# Advanced AI-Based Hair Color Manipulation Using PyTorch, OpenCV, and Background Removal Techniques
 
 ## About the Project
 This project is an advanced AI-based solution for hair color manipulation in images, even with complex backgrounds. I have built upon existing hair color models and further tuned them to enhance the detection of hair regions, especially when the background includes multiple objects or complex elements. This improved model provides more accurate and realistic results in various environments.
